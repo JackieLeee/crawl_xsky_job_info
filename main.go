@@ -51,9 +51,10 @@ func main() {
 		logs.Warn("save job info to file failed, err:", err)
 		return
 	}
-	logs.Debug("all success")
+	logs.Debug("crawl finish, filename:", KFileName)
 }
 
+//GetJobListFromApi 从Api中获取职位列表
 func GetJobListFromApi() ([]*message.JobInfo, error) {
 	//获取cookie
 	cookies, err := GetCookies()
