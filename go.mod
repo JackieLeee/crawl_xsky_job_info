@@ -1,4 +1,4 @@
-module crawl_xsky_job_info
+module github.com/flagship575/crawl_xsky_job_info
 
 go 1.17
 

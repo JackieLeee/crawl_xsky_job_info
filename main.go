@@ -11,7 +11,7 @@ import (
 
 	"github.com/beego/beego/v2/core/logs"
 
-	"crawl_xsky_job_info/message"
+	"github.com/flagship575/crawl_xsky_job_info/message"
 )
 
 /**

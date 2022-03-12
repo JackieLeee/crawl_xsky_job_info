@@ -1,0 +1,1890 @@
+[
+    {
+        "id": "7073660063575525643",
+        "title": "云计算测试工程师",
+        "sub_title": "",
+        "description": "职责：\n1. 负责新一代云计算产品的测试，保证产品质量。\n\n",
+        "requirement": "职位要求：\n1. 严谨细心。\n2. 有快速深入学习的能力，对新技术新技能有浓厚的兴趣。\n3. 勇于承担责任，心态开放。\n4. 具有良好的沟通能力，有较强的独立工作能力和解决问题的能力 。\n5. 良好的工作习惯，工作能够系统化和文档化，并乐于分享。\n加分项：\n1. 熟悉VMware、Nutanix、OpenStack、Kubernetes、KVM、Docker、Libvirt、Qemu\n2. 熟悉AWS、AZure、GCP等公有云平台。\n3. 熟悉算法、数据结构 。\n4. 精通Linux。\n5. 精通Shell、Python。\n6. 熟悉Linux网络协议栈、存储协议栈。\n7. 熟悉现代应用的开发、部署、管理。\n8. 熟悉Chaos Engineering。\n9. 具有产品意识，能从用户体验角度对产品提出改进建议。\n你的机会：\n在XSKY，你可以接触最前沿的分布式、存储、虚拟化、容器、网络等技术，使用最新的黑科技。你可以和研发并肩作战，使用最新的测试技术和方法，深挖产品质量问题，并提出改进建议，成为产品专家。",
+        "job_category": {
+            "children": null,
+            "depth": 1,
+            "en_name": "Internet / Electronics / Games",
+            "i18n_name": "互联网 / 电子 / 网游",
+            "id": "6791698585114724616",
+            "name": "互联网 / 电子 / 网游"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1646965012987,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "PU1L",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7073660019346573605",
+        "title": "初级售前工程师",
+        "sub_title": "",
+        "description": "1. 辅助资深售前同事进行公司产品、服务和解决方案的重点行业的业务推广；\n2. 文档准备工作，包括解决方案、市场文案、投标资料和培训资料等；\n3. 支持销售做好业务合作伙伴技术交流和支持；\n4. 协助合作伙伴进行项目支持和问题解答。",
+        "requirement": "1、本科学历，计算机专业和电子信息类专业优先；\n2、有亲和力，形象气质好；\n3、有责任心、积极性和抗压能力；\n4、有应变能力，逻辑思维清晰；\n5、学习和自驱能力强；\n6、良好价值观，对自己未来有规划。\n\n优势：有机会申请北京市落户指标",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Sales support",
+            "i18n_name": "销售支持",
+            "id": "6791697805083363591",
+            "name": "销售支持"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1646965021625,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JHWPL",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7070691633989323046",
+        "title": "初级售前工程师",
+        "sub_title": "",
+        "description": "1. 辅助资深售前同事进行公司产品、服务和解决方案的重点行业的业务推广；\n2. 文档准备工作，包括解决方案、市场文案、投标资料和培训资料等；\n3. 支持销售做好业务合作伙伴技术交流和支持；\n4. 协助合作伙伴进行项目支持和问题解答。",
+        "requirement": "1、本科学历，计算机专业和电子信息类专业优先；\n2、有亲和力，形象气质好；\n3、有责任心、积极性和抗压能力；\n4、有应变能力，逻辑思维清晰；\n5、学习和自驱能力强；\n6、良好价值观，对自己未来有规划。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Sales support",
+            "i18n_name": "销售支持",
+            "id": "6791697805083363591",
+            "name": "销售支持"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Intern",
+            "i18n_name": "实习",
+            "id": "202",
+            "name": "实习",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1646273744868,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "7JUV",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7065597188520380710",
+        "title": "后端开发工程师",
+        "sub_title": "",
+        "description": "1. 分布式系统的设计和开发，解决大规模甚至超大规模集群的管理会遇到的各种极限问题（比如服务高可用、节点间通信、任务调度、统计和搜索等方面的问题）。\n2. 存储管理功能的设计和开发，解决 10w 数量级的资源的管理问题（比如并发、容量、时延等方面的问题）。\n3. 云计算集成的设计和开发，与Kubernetes、 OpenStack 或者 VMWare 云计算环境进行集成，提供云计算可感知的存储系统，提供先进的虚拟化存储方案。\n",
+        "requirement": "1. 计算机等相关专业本科及以上学历。\n2. 对技术有极大的热情，学习能力强，责任心强，工作认真细致。\n3. 熟练掌握 C 语言/Go语言或者其他某一种编程语言。\n4. 熟悉计算机系统结构、操作系统、网络协议、数据结构和算法、数据库等方面的基础知识。\n5. 良好的沟通能力，口头交流和文档交流都很重要。\n6. 足够的英文能力，可以阅读各种开源项目文档。\n7. 较强的逻辑能力，善于分析问题。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1645087783938,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "KTM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7055118304755140900",
+        "title": "测试开发工程师",
+        "sub_title": "",
+        "description": "岗位职责：\n1.\t需求的测试分析、测试方案、测试计划输出；\n2.\t搭建测试环境、测试用例执行及缺陷管理； \n3.\t完成测试结果评估并汇总测试报告；\n4.\t测试用例自动化，Jenkins持续集成；\n",
+        "requirement": "任职要求：\n1.本科及以上学历，计算机以及相关专业优先；\n2.具备良好的数据结构、算法基础，有Windows、Linux平台开发经验，有C/C++/Java实际编写经验；\n3.有Python、Shell等脚本开发经验者优先；\n4.对开源社区Ceph、Openstack、K8s有经验，兴趣的优先;\n5.对Bug敏感，有测试经验者优先；",
+        "job_category": {
+            "children": null,
+            "depth": 1,
+            "en_name": "Internet / Electronics / Games",
+            "i18n_name": "互联网 / 电子 / 网游",
+            "id": "6791698585114724616",
+            "name": "互联网 / 电子 / 网游"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1642647739833,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "QP6V",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7055117063208028424",
+        "title": "测试开发工程师",
+        "sub_title": "",
+        "description": "岗位职责：\n1.\t需求的测试分析、测试方案、测试计划输出；\n2.\t搭建测试环境、测试用例执行及缺陷管理； \n3.\t完成测试结果评估并汇总测试报告；\n4.\t测试用例自动化，Jenkins持续集成；\n",
+        "requirement": "任职要求：\n1.本科及以上学历，计算机以及相关专业优先；\n2.具备良好的数据结构、算法基础，有Windows、Linux平台开发经验，有C/C++/Java实际编写经验；\n3.有Python、Shell等脚本开发经验者优先；\n4.对开源社区Ceph、Openstack、K8s有经验，兴趣的优先;\n5.对Bug敏感，有测试经验者优先；",
+        "job_category": {
+            "children": null,
+            "depth": 1,
+            "en_name": "Internet / Electronics / Games",
+            "i18n_name": "互联网 / 电子 / 网游",
+            "id": "6791698585114724616",
+            "name": "互联网 / 电子 / 网游"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1642647601606,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "QP6V",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7041868996162046219",
+        "title": "存储测试工程师",
+        "sub_title": "",
+        "description": "职位描述\n（请勿重复投递，谢谢配合。）\n1.参与产品的功能，可靠性，稳定性等测试工作\n2.根据需求和设计文档编写测试用例\n3.按照测试规范要求，构建测试环境，执行产品测试，输出测试相关文档\n4.提交和跟踪缺陷，推动研发解决缺陷。\n5.设计与编写自动化代码，提高测试效率\n",
+        "requirement": "职位要求\n1.本科或以上学历，计算机以及相关专业优先；\n2.了解基本测试理论和测试流程\n3.熟悉常见的Linux命令\n4.至少熟悉一种开发语言(比如Python/java等)\n5.责任心强，善于学习，以及较强的沟通能力\n6.求知欲强，对新技术敏感，具备一定的创新精神\n7.会使用一些测试工具，有一定的测试经验者优先",
+        "job_category": {
+            "children": null,
+            "depth": 1,
+            "en_name": "Internet / Electronics / Games",
+            "i18n_name": "互联网 / 电子 / 网游",
+            "id": "6791698585114724616",
+            "name": "互联网 / 电子 / 网游"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1639563350723,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "HKQV",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7041501181215492388",
+        "title": "分布式存储技术研究员（高性能方向）",
+        "sub_title": "",
+        "description": "1、面向新一代内存型介质和高速网络的存算分离架构设计。包含 SCM 分布式文件系统的设计和开发，SCM KV分布式存储的设计和开发；\n2、面向 NVME over Fabrics、NAS 和数据库客户端软件技术创新和性能优化方向的研究工作，结合客户端缓存、硬件卸载、新型存储介质等进行技术研究和原型开发验证；\n3、承担业界趋势跟踪职责，调研分析存储学术界的新技术用业界前沿技术，分析学术界的新技术、新算法，利用业界前沿技术实现断裂式技术创新。构建存储产业各领域关键竞争力。",
+        "requirement": "1、博士及以上学历，熟悉计算机体系结构， 理解硬件的工作原理；\n2、熟悉文件系统，分布式文件系统，大数据；\n3、熟悉Ceph/Lustre/HDFS等至少一种分布式文件系统，掌握LSMtree索引结构；\n4、熟悉 DAOS 等新型内存分布式系统者优先。",
+        "job_category": {
+            "children": null,
+            "depth": 2,
+            "en_name": "R\u0026D",
+            "i18n_name": "研发",
+            "id": "6791702736615426317",
+            "name": "研发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1639477415206,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "RSV",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7041498978709768487",
+        "title": "存储算法研究员（备份精简技术方向）",
+        "sub_title": "",
+        "description": "1、面向下一代备份系统的数据重删缩减方案方案设计，包含变长重删算法（CDC），在线重删机制、基于AI或者数据特征的数据压缩算法、面向SSD/HDD/S3下介质的数据布局、数据整理的大带宽，高重删率的演进；\n2、 负责关键特性产品化落地的架构与方案设计；参与数据缩减方案的技术决策，疑难问题的攻关；\n3、 负责备份系统数据缩减专项技术领域的关键人才培养。\n4、负责对备份产品业务模型进行数学建模和抽象，将存储工程问题转换为数学问题，指导解决方案的工程化落地；",
+        "requirement": "1、博士及以上学历，掌握 C 、C ++、JAVA、Python、GO其中至少一门开发语言；\n2、熟悉数据缩减技术原理以及相关算法如CDC,SHA，压缩算法，以及实际研究经验；\n3、具备备份系统设计与研发的经验者优先；\n4、了解主要应用的数据格式对备份系统的最优存放、最优压缩。\n5、具备良好的沟通能力，能够和不同知识背景人员进行良好沟通；",
+        "job_category": {
+            "children": null,
+            "depth": 2,
+            "en_name": "R\u0026D",
+            "i18n_name": "研发",
+            "id": "6791702736615426317",
+            "name": "研发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1639477019660,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "3KQV",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7041495312573335822",
+        "title": "存储算法研究员（非结构化数据方向）",
+        "sub_title": "",
+        "description": "1、承担存储领域业界趋势跟踪，学术界新技术和关键算法的调研分析；\n2、负责在压缩，重删，元数据索引，数据排布，存储智能，可靠性等存储领域算法研究与算法原型代码开发、交付等工作；\n3、负责对存储产品业务模型进行数学建模和抽象，将存储工程问题转换为数学问题，指导解决方案的工程化落地；\n4、有较强的动手实践能力，完成关键技术原型的验证；\n5、共享业界标准及专利，构建存储核心竞争力。",
+        "requirement": "1、计算机相关专业博士及以上学历，精通数据结构和常用算法的设计和开发，有较好的数学和算法基础；\n2、较强的快速调研能力，包括论文和专利分析;\n3、有实际项目经验，精通linux下C/C++开发，能熟练运用 linux 下的gcc、vi、shell等相关开发工具；\n4、了解存储背景知识，从事云存储、分布式系统、一致性协议、数据库等相关领域的研究或开发经验者优先。\n5、具备良好的沟通能力，能够和不同知识背景人员进行良好沟通；",
+        "job_category": {
+            "children": null,
+            "depth": 2,
+            "en_name": "R\u0026D",
+            "i18n_name": "研发",
+            "id": "6791702736615426317",
+            "name": "研发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1639475885840,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JGFSV",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7026922250997926155",
+        "title": "产品设计师",
+        "sub_title": "",
+        "description": "1、主要负责前期调研工作的产出\n2、可完成简单的交互和视觉设计工作，能确保独立负责的任务持续跟进\n3、运用所学，发现产品交互体验优化点并提出设计解决方案\n4、参与设计规范体系的迭代及落地",
+        "requirement": "1、交互设计、视觉传达、工业设计、心理学、计算机等相关专业在校生；\n2、了解交互设计的基本原则和方法，会使用基本的交互设计软件；\n3、具有好奇心，乐于尝试体验，热爱交互设计；\n4、具有良好的沟通能力、学习能力、文档输出能力；\n5、请投递具有代表性的设计相关作品，能体现出自己对设计的思考。",
+        "job_category": {
+            "children": null,
+            "depth": 2,
+            "en_name": "Design",
+            "i18n_name": "设计",
+            "id": "6791702736615344397",
+            "name": "设计"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1636082953283,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "J7UA2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7019185011899238695",
+        "title": "产品设计师",
+        "sub_title": "",
+        "description": "1、主要负责前期调研工作的产出\n2、可完成简单的交互和视觉设计工作，能确保独立负责的任务持续跟进\n3、运用所学，发现产品交互体验优化点并提出设计解决方案\n4、参与设计规范体系的迭代及落地",
+        "requirement": "1、交互设计、视觉传达、工业设计、心理学、计算机等相关专业在校生；\n2、了解交互设计的基本原则和方法，会使用基本的交互设计软件；\n3、具有好奇心，乐于尝试体验，热爱交互设计；\n4、具有良好的沟通能力、学习能力、文档输出能力；\n5、请投递具有代表性的设计相关作品，能体现出自己对设计的思考。",
+        "job_category": {
+            "children": null,
+            "depth": 2,
+            "en_name": "Design",
+            "i18n_name": "设计",
+            "id": "6791702736615344397",
+            "name": "设计"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Intern",
+            "i18n_name": "实习",
+            "id": "202",
+            "name": "实习",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1634281519814,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "9552",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7007343198440196359",
+        "title": "存储研发工程师",
+        "sub_title": "",
+        "description": "负责大型分布式存储系统功能模块的开发和维护。\n通过此岗位，将有机会学习到存储领域最前沿的技术，并将其应用到超大规模存储集群中，支持成千上万种不同类型的应用。\n工作内容包括但不限于：\n1. 数据的分布和管理，数据的存储，数据恢复，数据保护，以及各种高级功能如快照，分级，压缩，去重，备份等。\n2. 在提供高性能的同时，保证整个集群系统在大型生产环境中的可靠性、可用性以及可维护性。\n3. 需完成各种新功能的设计和开发，同时配合测试及实施人员解决测试和生产中碰到的各种问题。",
+        "requirement": "1.\t计算机或相关专业本科及以上学历；\n2.\t熟悉Linux平台上的C/C++开发，以及标准库STL；\n3.\t熟悉常用数据结构和算法；\n4.\t基础扎实，态度积极，学习能力强，具有合作精神；",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1631524336561,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JB9M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7007343036611119364",
+        "title": "存储研发工程师",
+        "sub_title": "",
+        "description": "负责大型分布式存储系统功能模块的开发和维护。\n通过此岗位，将有机会学习到存储领域最前沿的技术，并将其应用到超大规模存储集群中，支持成千上万种不同类型的应用。\n工作内容包括但不限于：\n1. 数据的分布和管理，数据的存储，数据恢复，数据保护，以及各种高级功能如快照，分级，压缩，去重，备份等。\n2. 在提供高性能的同时，保证整个集群系统在大型生产环境中的可靠性、可用性以及可维护性。\n3. 需完成各种新功能的设计和开发，同时配合测试及实施人员解决测试和生产中碰到的各种问题。",
+        "requirement": "1.\t计算机或相关专业本科及以上学历；\n2.\t熟悉Linux平台上的C/C++开发，以及标准库STL；\n3.\t熟悉常用数据结构和算法；\n4.\t基础扎实，态度积极，学习能力强，具有合作精神；",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_22",
+            "en_name": "Chengdu",
+            "i18n_name": "成都",
+            "location_type": null,
+            "name": "成都",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1631524409043,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JB9M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7007341431807559950",
+        "title": "后端开发工程师",
+        "sub_title": "",
+        "description": "1. 分布式系统的设计和开发，解决大规模甚至超大规模集群的管理会遇到的各种极限问题（比如服务高可用、节点间通信、任务调度、统计和搜索等方面的问题）。\n2. 存储管理功能的设计和开发，解决 10w 数量级的资源的管理问题（比如并发、容量、时延等方面的问题）。\n3. 云计算集成的设计和开发，与Kubernetes、 OpenStack 或者 VMWare 云计算环境进行集成，提供云计算可感知的存储系统，提供先进的虚拟化存储方案。\n",
+        "requirement": "1. 计算机等相关专业本科及以上学历。\n2. 对技术有极大的热情，学习能力强，责任心强，工作认真细致。\n3. 熟练掌握 C 语言/Go语言或者其他某一种编程语言。\n4. 熟悉计算机系统结构、操作系统、网络协议、数据结构和算法、数据库等方面的基础知识。\n5. 良好的沟通能力，口头交流和文档交流都很重要。\n6. 足够的英文能力，可以阅读各种开源项目文档。\n7. 较强的逻辑能力，善于分析问题。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_22",
+            "en_name": "Chengdu",
+            "i18n_name": "成都",
+            "location_type": null,
+            "name": "成都",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1631523816714,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "KTM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7005012338567383310",
+        "title": "测试工程师",
+        "sub_title": "",
+        "description": "（请勿重复投递，谢谢配合。） \n1.参与产品的功能，可靠性，稳定性等测试工作 \n2.根据需求和设计文档编写测试用例 \n3.按照测试规范要求，构建测试环境，执行产品测试，输出测试相关文档 \n4.提交和跟踪缺陷，推动研发解决缺陷。 \n5.设计与编写自动化代码，提高测试效率\n",
+        "requirement": "1.本科或以上学历，计算机以及相关专业优先； \n2.了解基本测试理论和测试流程 \n3.熟悉常见的Linux命令 \n4.至少熟悉一种开发语言(比如Python/java等) \n5.责任心强，善于学习，以及较强的沟通能力 \n6.求知欲强，对新技术敏感，具备一定的创新精神 \n7.会使用一些测试工具，有一定的测试经验者优先",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Testing",
+            "i18n_name": "测试",
+            "id": "6791697805082724615",
+            "name": "测试"
+        },
+        "city_info": {
+            "code": "CT_22",
+            "en_name": "Chengdu",
+            "i18n_name": "成都",
+            "location_type": null,
+            "name": "成都",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630981810925,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "J8RW2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7004767574076688677",
+        "title": "应用平台开发工程师",
+        "sub_title": "",
+        "description": "1. 负责大数据应用系统的设计\u0026实现、应用推广、应用的运维支持；\n2. 负责海量任务和资源调度框架系统的设计\u0026实现；\n3. 进行代码 review 工作，确保团队的代码质量；\n4. 撰写技术文档，比如软件设计文档、问题处理文档等，帮助维护一个良好的文档体系和培训体系；\n5. 团队内部技术交流以及改善团队工作效率，比如分享技术、引入新的工具等。",
+        "requirement": "1. 本科及以上学历，计算机相关专业\n2. 热爱编程，基础扎实，精通JAVA软件开发，有软件开发项目经验，并至少熟练掌握以下语言中的一种：C/C++/GO/Python/PHP/Python/Shell等编程语言及脚本语言；\n3. 具备独立工作能力和解决问题的能力、善于沟通，乐于合作，热衷新技术，善于总结分享，喜欢动手实践；\n4. 对数据结构、算法有一定了解；\n5. 具备团队意识，与他人合作良好，最好具有团队协作的经验\n优选条件：\n1. 熟悉大数据相关开源软件，有应用大数据组件的解决问题的实战经验更好，有开源社区代码贡献者优先\n2. 熟悉Linux操作系统",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_158",
+            "en_name": "Xiamen",
+            "i18n_name": "厦门",
+            "location_type": null,
+            "name": "厦门",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630924695797,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JDHW2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003675413747747111",
+        "title": "后端开发工程师（云计算）",
+        "sub_title": "",
+        "description": "负责管理平台的设计和开发，需要解决大规模资源管理、高并发业务处理、系统高可用、大规模集群支持等问题。工作内容主要包括：\n1.\t分布式系统的设计和开发，解决大规模甚至超大规模集群的管理会遇到的各种极限问题（比如服务高可用、节点间通信、任务调度等方面的问题）。\n2.\t资源管理功能的设计和开发，解决 10w 数量级的资源的管理问题（比如业务并发、监控告警等方面的问题）。\n3.\t云计算集成的设计和开发，与Kubernetes、 OpenStack 或者 VMWare 云计算环境进行集成，提供云计算可感知的存储系统，提供先进的虚拟化存储方案。",
+        "requirement": "岗位要求\n1.\t计算机、信息安全、通信、电子、自动化、数学等相关专业本科及以上学历。\n2.\t对技术有极大的热情，学习能力强，责任心强，工作认真细致。\n3.\t熟练掌握 C 语言或者其他某一种编程语言。\n4.\t熟悉计算机系统结构、操作系统、网络协议、数据结构和算法、数据库等方面的基础知识。\n5.\t良好的沟通能力，口头交流和文档交流都很重要。\n6.\t足够的英文能力，可以阅读各种开源项目文档。\n7.\t较强的逻辑能力，善于分析问题。\n\n加分项\n1.\t有开源社区、ACM大赛、CTF 比赛、机器人比赛的经验。\n2.\t在计算机领域发表过论文、国际期刊、专利。\n3.\t有实际项目、实习项目或者个人小项目开发经验。\n4.\t熟悉 Go、Python、Java、C者C++ 中的一种，熟悉语言的生态，比如包管理、单元测试框架、应用开发框架等。\n5.\t熟悉 Linux，包括进程管理、网络管理、文件系统管理等，熟悉 shell 等常用工具。\n6.\t熟悉 PostgreSQL 或者 MySQL 或者其他数据库的使用，熟悉数据库的 ACID、事务、索引、复杂查询等功能。\n7.\t熟悉 Git 和 Github。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630670666563,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JR8M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003675030774548773",
+        "title": "后端开发工程师（云计算）",
+        "sub_title": "",
+        "description": "负责管理平台的设计和开发，需要解决大规模资源管理、高并发业务处理、系统高可用、大规模集群支持等问题。工作内容主要包括：\n1.\t分布式系统的设计和开发，解决大规模甚至超大规模集群的管理会遇到的各种极限问题（比如服务高可用、节点间通信、任务调度等方面的问题）。\n2.\t资源管理功能的设计和开发，解决 10w 数量级的资源的管理问题（比如业务并发、监控告警等方面的问题）。\n3.\t云计算集成的设计和开发，与Kubernetes、 OpenStack 或者 VMWare 云计算环境进行集成，提供云计算可感知的存储系统，提供先进的虚拟化存储方案。",
+        "requirement": "岗位要求\n1.\t计算机、信息安全、通信、电子、自动化、数学等相关专业本科及以上学历。\n2.\t对技术有极大的热情，学习能力强，责任心强，工作认真细致。\n3.\t熟练掌握 C 语言或者其他某一种编程语言。\n4.\t熟悉计算机系统结构、操作系统、网络协议、数据结构和算法、数据库等方面的基础知识。\n5.\t良好的沟通能力，口头交流和文档交流都很重要。\n6.\t足够的英文能力，可以阅读各种开源项目文档。\n7.\t较强的逻辑能力，善于分析问题。\n\n加分项\n1.\t有开源社区、ACM大赛、CTF 比赛、机器人比赛的经验。\n2.\t在计算机领域发表过论文、国际期刊、专利。\n3.\t有实际项目、实习项目或者个人小项目开发经验。\n4.\t熟悉 Go、Python、Java、C者C++ 中的一种，熟悉语言的生态，比如包管理、单元测试框架、应用开发框架等。\n5.\t熟悉 Linux，包括进程管理、网络管理、文件系统管理等，熟悉 shell 等常用工具。\n6.\t熟悉 PostgreSQL 或者 MySQL 或者其他数据库的使用，熟悉数据库的 ACID、事务、索引、复杂查询等功能。\n7.\t熟悉 Git 和 Github。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630670437138,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JR8M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003672741073668391",
+        "title": "技术支持工程师",
+        "sub_title": "",
+        "description": "1.公司软件产品的实施部署及运维操作。\n2.产品实施过程中服务器、网络、操作系统、分布式存储软件的实施及运维。\n3.产品在客户处运行中发生的事件管理，问题跟踪及问题补丁的更新解决。",
+        "requirement": "任职要求:\n1.计算机或相关专业本科及以上学历\n2.了解Linux系统，熟悉linux的安装，会使用日常使用linux操作命令。\n3.了解计算机网络相关知识。\n4.有开源Ceph、OpenStack、k8s、docker部署经验者优先。\n5.熟悉脚本语言者，自动化运维工具者优先。\n6.有良好的团队协作精神，富有责任心，能承受一定强度的工作压力。\n7.能接受适当的外派出差。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Enterprise software",
+            "i18n_name": "企业软件",
+            "id": "6791697805082888455",
+            "name": "企业软件"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630670018169,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JECM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003642374367168804",
+        "title": "存储测试工程师",
+        "sub_title": "",
+        "description": "（请勿重复投递，谢谢配合。） 1.参与产品的功能，可靠性，稳定性等测试工作\n 2.根据需求和设计文档编写测试用例\n 3.按照测试规范要求，构建测试环境，执行产品测试，输出测试相关文档\n 4.提交和跟踪缺陷，推动研发解决缺陷。 \n5.设计与编写自动化代码，提高测试效率\n",
+        "requirement": "1.本科或以上学历，计算机以及相关专业优先；\n2.了解基本测试理论和测试流程\n3.熟悉常见的Linux命令 \n4.至少熟悉一种开发语言(比如Python/java等) \n5.责任心强，善于学习，以及较强的沟通能力 \n6.求知欲强，对新技术敏感，具备一定的创新精神 \n7.会使用一些测试工具，有一定的测试经验者优先\n",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Testing",
+            "i18n_name": "测试",
+            "id": "6791697805082724615",
+            "name": "测试"
+        },
+        "city_info": {
+            "code": "CT_22",
+            "en_name": "Chengdu",
+            "i18n_name": "成都",
+            "location_type": null,
+            "name": "成都",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630662633278,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "J2CM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003637848360421668",
+        "title": "测试工程师（偏底层）",
+        "sub_title": "",
+        "description": "（请勿重复投递，谢谢配合。）\n1.参与产品的功能，可靠性，稳定性等测试工作\n2.根据需求和设计文档编写测试用例\n3.按照测试规范要求，构建测试环境，执行产品测试，输出测试相关文档\n4.提交和跟踪缺陷，推动研发解决缺陷。\n5.设计与编写自动化代码，提高测试效率",
+        "requirement": "1.本科或以上学历，计算机以及相关专业优先；\n2.了解基本测试理论和测试流程\n3.熟悉常见的Linux命令\n4.至少熟悉一种开发语言(比如Python/java等)\n5.责任心强，善于学习，以及较强的沟通能力\n6.求知欲强，对新技术敏感，具备一定的创新精神\n7.会使用一些测试工具，有一定的测试经验者优先",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Testing",
+            "i18n_name": "测试",
+            "id": "6791697805082724615",
+            "name": "测试"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630661515490,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "7FM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003670357711046926",
+        "title": "C++开发工程师",
+        "sub_title": "",
+        "description": "负责大型分布式存储系统功能模块的开发和维护。\n通过此岗位，将有机会学习到存储领域最前沿的技术，并将其应用到超大规模存储集群中，支持成千上万种不同类型的应用。\n工作内容包括但不限于：\n1. 数据的分布和管理，数据的存储，数据恢复，数据保护，以及各种高级功能如快照，分级，压缩，去重，备份等。\n2. 在提供高性能的同时，保证整个集群系统在大型生产环境中的可靠性、可用性以及可维护性。\n3. 需完成各种新功能的设计和开发，同时配合测试及实施人员解决测试和生产中碰到的各种问题。\n\n\n",
+        "requirement": "1.\t计算机或相关专业本科及以上学历；\n2.\t熟悉Linux平台上的C/C++开发，以及标准库STL；\n3.\t熟悉常用数据结构和算法；\n4.\t基础扎实，态度积极，学习能力强，具有合作精神；",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_22",
+            "en_name": "Chengdu",
+            "i18n_name": "成都",
+            "location_type": null,
+            "name": "成都",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630669810863,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "R8M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003670312274790663",
+        "title": "C＋＋开发工程师",
+        "sub_title": "",
+        "description": "负责大型分布式存储系统功能模块的开发和维护。\n通过此岗位，将有机会学习到存储领域最前沿的技术，并将其应用到超大规模存储集群中，支持成千上万种不同类型的应用。\n工作内容包括但不限于：\n1. 数据的分布和管理，数据的存储，数据恢复，数据保护，以及各种高级功能如快照，分级，压缩，去重，备份等。\n2. 在提供高性能的同时，保证整个集群系统在大型生产环境中的可靠性、可用性以及可维护性。\n3. 需完成各种新功能的设计和开发，同时配合测试及实施人员解决测试和生产中碰到的各种问题。\n\n\n",
+        "requirement": "1.\t计算机或相关专业本科及以上学历；\n2.\t熟悉Linux平台上的C/C++开发，以及标准库STL；\n3.\t熟悉常用数据结构和算法；\n4.\t基础扎实，态度积极，学习能力强，具有合作精神；",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630669674402,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "R8M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003668789666679053",
+        "title": "存储应用开发工程师",
+        "sub_title": "",
+        "description": "1. 分布式系统的设计和开发，解决大规模甚至超大规模集群的管理会遇到的各种极限问题（比如服务高可用、节点间通信、任务调度、统计和搜索等方面的问题）。\n2. 存储管理功能的设计和开发，解决 10w 数量级的资源的管理问题（比如并发、容量、时延等方面的问题）。\n3. 云计算集成的设计和开发，与Kubernetes、 OpenStack 或者 VMWare 云计算环境进行集成，提供云计算可感知的存储系统，提供先进的虚拟化存储方案。\n",
+        "requirement": "1. 计算机等相关专业本科及以上学历。\n2. 对技术有极大的热情，学习能力强，责任心强，工作认真细致。\n3. 熟练掌握 C 语言/Go语言或者其他某一种编程语言。\n4. 熟悉计算机系统结构、操作系统、网络协议、数据结构和算法、数据库等方面的基础知识。\n5. 良好的沟通能力，口头交流和文档交流都很重要。\n6. 足够的英文能力，可以阅读各种开源项目文档。\n7. 较强的逻辑能力，善于分析问题。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630669174785,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "KTM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003668473730074913",
+        "title": "后端开发工程师",
+        "sub_title": "",
+        "description": "1. 分布式系统的设计和开发，解决大规模甚至超大规模集群的管理会遇到的各种极限问题（比如服务高可用、节点间通信、任务调度、统计和搜索等方面的问题）。\n2. 存储管理功能的设计和开发，解决 10w 数量级的资源的管理问题（比如并发、容量、时延等方面的问题）。\n3. 云计算集成的设计和开发，与Kubernetes、 OpenStack 或者 VMWare 云计算环境进行集成，提供云计算可感知的存储系统，提供先进的虚拟化存储方案。\n",
+        "requirement": "1. 计算机等相关专业本科及以上学历。\n2. 对技术有极大的热情，学习能力强，责任心强，工作认真细致。\n3. 熟练掌握 C 语言/Go语言或者其他某一种编程语言。\n4. 熟悉计算机系统结构、操作系统、网络协议、数据结构和算法、数据库等方面的基础知识。\n5. 良好的沟通能力，口头交流和文档交流都很重要。\n6. 足够的英文能力，可以阅读各种开源项目文档。\n7. 较强的逻辑能力，善于分析问题。",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630669332716,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "KTM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003665936897313037",
+        "title": "存储研发工程师",
+        "sub_title": "",
+        "description": "负责大型分布式存储系统功能模块的开发和维护。\n通过此岗位，将有机会学习到存储领域最前沿的技术，并将其应用到超大规模存储集群中，支持成千上万种不同类型的应用。\n工作内容包括但不限于：\n1. 数据的分布和管理，数据的存储，数据恢复，数据保护，以及各种高级功能如快照，分级，压缩，去重，备份等。\n2. 在提供高性能的同时，保证整个集群系统在大型生产环境中的可靠性、可用性以及可维护性。\n3. 需完成各种新功能的设计和开发，同时配合测试及实施人员解决测试和生产中碰到的各种问题。",
+        "requirement": "1.\t计算机或相关专业本科及以上学历；\n2.\t熟悉Linux平台上的C/C++开发，以及标准库STL；\n3.\t熟悉常用数据结构和算法；\n4.\t基础扎实，态度积极，学习能力强，具有合作精神；",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Back-end development",
+            "i18n_name": "后端开发",
+            "id": "6791697805082626311",
+            "name": "后端开发"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630668497015,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "JB9M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003663711181785380",
+        "title": "运维研发工程师",
+        "sub_title": "",
+        "description": "1、参与研发基础设施的建设、维护、管理；\n2、参与自动化管理平台研发，提高 IT、运维、开发协作效率；\n3、参与构建公司安全、风控体系建设；",
+        "requirement": "1、熟练使用Linux/Unix系统，有 Kubernetes、Openstack 运维经验优先；\n2、熟悉运维相关工具或中间件如 Ansible、Redis、Prometheus、Elasticsearch 等优先；\n3、掌握一种运维开发语言 Go/Python/Shell 等；\n4、有较强的学习能力，能够熟练阅读涉及产品和技术的英文文档；\n5、能够独立完成工作，具有较强的综合分析问题及解决问题的能力；\n6、有良好的工作文档习惯，及时按要求撰写更新工作流程及技术文档；\n",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Operations and maintenance",
+            "i18n_name": "运维",
+            "id": "6791697805082790151",
+            "name": "运维"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630667822500,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "B9M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003663710439295245",
+        "title": "运维研发工程师",
+        "sub_title": "",
+        "description": "1、参与研发基础设施的建设、维护、管理；\n2、参与自动化管理平台研发，提高 IT、运维、开发协作效率；\n3、参与构建公司安全、风控体系建设；",
+        "requirement": "1、熟练使用Linux/Unix系统，有 Kubernetes、Openstack 运维经验优先；\n2、熟悉运维相关工具或中间件如 Ansible、Redis、Prometheus、Elasticsearch 等优先；\n3、掌握一种运维开发语言 Go/Python/Shell 等；\n4、有较强的学习能力，能够熟练阅读涉及产品和技术的英文文档；\n5、能够独立完成工作，具有较强的综合分析问题及解决问题的能力；\n6、有良好的工作文档习惯，及时按要求撰写更新工作流程及技术文档；\n",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Operations and maintenance",
+            "i18n_name": "运维",
+            "id": "6791697805082790151",
+            "name": "运维"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630667980152,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "B9M2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003662245670586631",
+        "title": "软件研发工程师",
+        "sub_title": "",
+        "description": "负责大型分布式存储系统功能模块的开发和维护。\n通过此岗位，将有机会学习到存储领域最前沿的技术，并将其应用到超大规模存储集群中，支持成千上万种不同类型的应用。\n工作内容包括但不限于：\n1. 数据的分布和管理，数据的存储，数据恢复，数据保护，以及各种高级功能如快照，分级，压缩，去重，备份等。\n2. 在提供高性能的同时，保证整个集群系统在大型生产环境中的可靠性、可用性以及可维护性。\n3. 需完成各种新功能的设计和开发，同时配合测试及实施人员解决测试和生产中碰到的各种问题。\n",
+        "requirement": "1.\t计算机或相关专业本科及以上学历；\n2.\t熟悉Linux平台上的C/C++开发，以及标准库STL；\n3.\t熟悉常用数据结构和算法；\n4.\t基础扎实，态度积极，学习能力强，具有合作精神；",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Infrastructure",
+            "i18n_name": "基础架构",
+            "id": "6791697805082740999",
+            "name": "基础架构"
+        },
+        "city_info": {
+            "code": "CT_128",
+            "en_name": "Shenzhen",
+            "i18n_name": "深圳",
+            "location_type": null,
+            "name": "深圳",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630667309029,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "4YM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003643168449857806",
+        "title": "测试工程师",
+        "sub_title": "",
+        "description": "（请勿重复投递，谢谢配合。）\n1.参与产品的功能，可靠性，稳定性等测试工作\n2.根据需求和设计文档编写测试用例\n3.按照测试规范要求，构建测试环境，执行产品测试，输出测试相关文档\n4.提交和跟踪缺陷，推动研发解决缺陷。\n5.设计与编写自动化代码，提高测试效率",
+        "requirement": "1.本科或以上学历，计算机以及相关专业优先；\n2.了解基本测试理论和测试流程\n3.熟悉常见的Linux命令\n4.至少熟悉一种开发语言(比如Python/java等)\n5.责任心强，善于学习，以及较强的沟通能力\n6.求知欲强，对新技术敏感，具备一定的创新精神\n7.会使用一些测试工具，有一定的测试经验者优先",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Testing",
+            "i18n_name": "测试",
+            "id": "6791697805082724615",
+            "name": "测试"
+        },
+        "city_info": {
+            "code": "CT_22",
+            "en_name": "Chengdu",
+            "i18n_name": "成都",
+            "location_type": null,
+            "name": "成都",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630663077994,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "7FM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    },
+    {
+        "id": "7003643128880613671",
+        "title": "测试工程师",
+        "sub_title": "",
+        "description": "（请勿重复投递，谢谢配合。）\n1.参与产品的功能，可靠性，稳定性等测试工作\n2.根据需求和设计文档编写测试用例\n3.按照测试规范要求，构建测试环境，执行产品测试，输出测试相关文档\n4.提交和跟踪缺陷，推动研发解决缺陷。\n5.设计与编写自动化代码，提高测试效率",
+        "requirement": "1.本科或以上学历，计算机以及相关专业优先；\n2.了解基本测试理论和测试流程\n3.熟悉常见的Linux命令\n4.至少熟悉一种开发语言(比如Python/java等)\n5.责任心强，善于学习，以及较强的沟通能力\n6.求知欲强，对新技术敏感，具备一定的创新精神\n7.会使用一些测试工具，有一定的测试经验者优先",
+        "job_category": {
+            "children": null,
+            "depth": 3,
+            "en_name": "Testing",
+            "i18n_name": "测试",
+            "id": "6791697805082724615",
+            "name": "测试"
+        },
+        "city_info": {
+            "code": "CT_11",
+            "en_name": "Beijing",
+            "i18n_name": "北京",
+            "location_type": null,
+            "name": "北京",
+            "py_name": ""
+        },
+        "recruit_type": {
+            "active_status": 1,
+            "children": null,
+            "depth": 2,
+            "en_name": "Regular",
+            "i18n_name": "正式",
+            "id": "201",
+            "name": "正式",
+            "parent": {
+                "active_status": 1,
+                "children": null,
+                "depth": 1,
+                "en_name": "Campus",
+                "i18n_name": "校招",
+                "id": "2",
+                "name": "校招",
+                "parent": null
+            }
+        },
+        "publish_time": 1630662849790,
+        "job_hot_flag": null,
+        "job_subject": {
+            "active_status": 0,
+            "id": "7002102973326362919",
+            "limit_count": 0,
+            "name": {
+                "en_us": null,
+                "i18n": "2022年校招项目",
+                "zh_cn": "2022年校招项目"
+            }
+        },
+        "code": "7FM2",
+        "department_id": null,
+        "job_function": null,
+        "job_process_id": "6992210991481063710",
+        "recommend_id": ""
+    }
+]
